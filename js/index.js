@@ -1,0 +1,18 @@
+let prevButton = document.getElementById('prev')
+let nextButton = document.getElementById('next')
+let container = document.querySelector('.container')
+let items = container.querySelectorAll('.list .item')
+let indicator = document.querySelector('.indicadores')
+let dots = indicator.querySelectorAll('ul li')
+
+nextButton.onclick = () => {
+
+
+    console.log("b1")
+}
+
+prevButton.onclick = () =>{
+
+
+    console.log("b2")
+}
