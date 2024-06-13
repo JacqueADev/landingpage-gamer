@@ -173,12 +173,12 @@ section {
       & li {
         width: 40px;
         height: 5px;
-        background-color: #ffffff;
+        background-color: #4f37d6;
         border-radius: 5px;
         transition: 0.5s;
       }
 
-      & .ativo {
+      & .active {
         background-color: white;
       }
     }
