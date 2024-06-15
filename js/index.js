@@ -34,3 +34,5 @@ prevButton.onclick = () => {
   setSlider()
 }
 
+
+
